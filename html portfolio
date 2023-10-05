@@ -1,0 +1,32 @@
+<!-- TODO 1: Create the HTML Boilerplate -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Website</title>
+</head>
+<body>
+    <h1>A. Ogunmokun's Portfolio</h1>
+    <h2>I am A Web Developer</h2>
+    <img src="./Profile pic.jpg" alt="">
+<!-- TODO 2: Add Your previous projects' HTML into the public folder -->
+<br>
+<a href="./public/movie-ranking.html"><h2>The Best Movies According to Iamhadeh</h2></a>
+<img src="./Best Movies.jpg" alt="Best movies according to me">
+
+<!-- TODO 3: Take screenshots of your project previews and add the images to the images folder -->
+<a href="./public/birthday-invite.html"><h2>Birthday Invite</h2></a>
+<img src="./screenshot Practice Birthday Invite.jpg" alt="Birthday Invite">
+
+<!-- TODO 4: Add titles/subtitles etc. -->
+
+<!-- TODO 5: Add a link to the project pages -->
+
+<!-- TODO 6: Add images to show the project previews
+HINT for TODO 6: You can use the height attribute set to 200 to make the image smaller:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-height -->
+
+<!-- TODO 7: Add the Contact Me and About Me page links -->
+<H2> <a href="./New folder/index.html"><strong>Contact Me</strong></a></H2>
+</body>
+</html>
